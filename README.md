@@ -1,5 +1,6 @@
-# AssessmentAsAService
-To clone the project : `git clone -b AssessmentAsAServiceBackend --single-branch https://msazure.visualstudio.com/DefaultCollection/One/_git/DI-ProjectSangam`
+# Code Compiler
+Code compiler programm.
+As a prerequite you need to install and add JAVAC, G++, CSC to your path.
 
 To Run the Project:   
 1. Open the project in IntelliJ
